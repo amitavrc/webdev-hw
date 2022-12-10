@@ -1,0 +1,20 @@
+.ab {
+	width: 80%;
+	margin: 10px 20px 30px 40px;
+	border: 4px solid #04AA6D;
+	border-radius: 10px;
+	padding: 10px 20px;
+	color: black;
+	text-transform: capitalize;
+	word-spacing: 2px;
+	line-height: 50px;
+	text-shadow: 1px 2px 3px red;
+}
+
+.ab:hover {
+	box-shadow: -5px 5px 10px silver;
+}
+
+a {
+	text-decoration: none;
+}
